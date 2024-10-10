@@ -13,4 +13,11 @@ The aim source of data is Microsoft Excel.csv
 - SQL 
 - POWER BI
 
+  ### Data Cleaning and Preparation
+  In the initial stage, I did;
+  1. Data loading
+  2. Handling Missing
+  
+  ### Exploring Data Analysis
+
 This is where I documented my project while learning data analysis with LITA Incubator Hub
